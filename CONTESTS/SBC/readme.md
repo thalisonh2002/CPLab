@@ -43,7 +43,7 @@ Competitive-Programming
 |[#7 ](./PROVAS/2015)|2015| Lucas Foltran     |
 |[#8 ](./PROVAS/2014)|2014| Rafael Henrique   |
 |[#9 ](./PROVAS/2013)|2013| Rafael Henrique   |
-|[#10](./PROVAS/2012)|2012|                   |
+|[#10](./PROVAS/2012)|2012| Thalison Rosa     |
 |[#11](./PROVAS/2011)|2011|                   |
 |[#12](./PROVAS/2010)|2010|                   |
 |[#13](./PROVAS/2009)|2009|                   |
